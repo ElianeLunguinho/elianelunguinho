@@ -67,7 +67,7 @@ Projeto desenvolvido em hackathon, com foco em solução de problema real em equ
 
 📧 Email: elianelunguinho123@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/eliane-lunguinho  
-📱 WhatsApp: https://wa.me/5581987020852  
+📱 WhatsApp: https://wa.me/5581987020752  
 
 ---
 
