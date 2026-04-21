@@ -71,4 +71,4 @@ Projeto desenvolvido em hackathon, com foco em solução de problema real em equ
 
 ---
 
-💡 Tecnologia em desenvolvimento | Aprendizado contínuo
+💡 💻 Em desenvolvimento na área de tecnologia | Aprendizado contínuo
